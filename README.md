@@ -1,4 +1,4 @@
-# Laravel Technical Assessment
+# Lucas Technical Assessment
 
 ## Instructions
 1. Create a new repository in your Github account by cloning this repo
